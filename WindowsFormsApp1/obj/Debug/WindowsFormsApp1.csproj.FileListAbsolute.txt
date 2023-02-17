@@ -9,3 +9,6 @@ C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF
 C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.dll
+C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.CodeDom.xml
+C:\Users\fermi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
